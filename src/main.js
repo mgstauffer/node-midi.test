@@ -1,8 +1,8 @@
 
 const THREE = require('three'); // older modules are imported like this. You shouldn't have to worry about this much
 import Framework from './framework'
-var midi = require('midi')
-//import midi from '../../libs/node-midi/midi.js'
+//var midi = require('midi')
+var midi = require('../../libs/node-midi/midi.js')
 
 //import our code
 //
